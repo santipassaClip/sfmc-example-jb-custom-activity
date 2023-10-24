@@ -2,6 +2,10 @@
   "name": "sfmc-jb-custom-activity-example",
   "version": "0.0.1",
   "main": "app.js",
+   "engines": {
+    "node": "14",
+    "npm": "6"
+  },
   "author": "Salesforce Marketing Cloud",
   "description": "Journey Builder Custom Activities",
   "license": "BSD-3-Clause",
